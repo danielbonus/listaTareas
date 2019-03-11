@@ -1,0 +1,24 @@
+{
+    "name": "listadotareas",
+    "version": "1.0.0",
+    "description": "Aplicacion es6 listado tareas",
+    "main": "index.js",
+    "scripts": {
+        "build": "webpack --mode production",
+        "dev": "webpack --mode development"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/danielbonus/listaTareas.git"
+    },
+    "author": "Daniel Romero",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/danielbonus/listaTareas/issues"
+    },
+    "homepage": "https://github.com/danielbonus/listaTareas#readme",
+    "devDependencies": {
+        "webpack": "^4.29.6",
+        "webpack-cli": "^3.2.3"
+    }
+}
